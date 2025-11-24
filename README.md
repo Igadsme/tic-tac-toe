@@ -1,0 +1,1 @@
+A simple, interactive Tic-Tac-Toe game built for quick play and demonstration of basic game logic. This project implements turn–based gameplay, win detection, draw detection, and a clean UI/UX (CLI or GUI, depending on your implementation).
