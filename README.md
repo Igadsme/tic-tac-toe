@@ -40,6 +40,8 @@ The game is played on a 3×3 grid.
 
 Player X goes first, followed by Player O.
 
+
+Imani Gad
 Players take turns selecting an available square.
 
 The first player to align three of their marks (horizontally, vertically, or diagonally) wins.
