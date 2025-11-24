@@ -32,3 +32,16 @@ JDK 17+
 For Web Version:
 
 Modern web browser (Chrome, Firefox, etc.)
+
+
+How to Play
+
+The game is played on a 3×3 grid.
+
+Player X goes first, followed by Player O.
+
+Players take turns selecting an available square.
+
+The first player to align three of their marks (horizontally, vertically, or diagonally) wins.
+
+If all squares are filled with no winner, the game ends in a draw.
